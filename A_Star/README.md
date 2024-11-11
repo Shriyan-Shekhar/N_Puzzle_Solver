@@ -1,13 +1,13 @@
 <h1>Running Methodology</h1>
 
 The code for Misplaced Tiles can be run as follows: <br>
-```python 20913526_problem1.py -p puzzle_1.txt -H 1 -o output1.txt```
+```python N_Puzzle_A_Star.py -p puzzle_1.txt -H 1 -o output1.txt```
 
 The code for Manhattan Distance can be run as follows: <br>
-```python 20913526_problem1.py -p puzzle_1.txt -H 2 -o output1.txt```
+```python N_Puzzle_A_Star.py -p puzzle_1.txt -H 2 -o output1.txt```
 
 The code for Mostow Prieditis can be run as follows: <br>
-```python 20913526_problem1.py -p puzzle_1.txt -H 3 -o output1.txt``` <br>
+```python N_Puzzle_A_Star.py -p puzzle_1.txt -H 3 -o output1.txt``` <br>
 
 Requirements:</br>
 Numpy
